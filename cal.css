@@ -1,0 +1,11 @@
+button{
+    height: 50px;
+    width:50px;
+    background-color: aqua;
+    font-size: 30px;
+}
+    *{
+    padding: 2px;
+    margin: 2px;
+    color: rgb(10, 54, 226);
+}
